@@ -1,5 +1,12 @@
 
 ![image](https://github.com/kupadhyay2394/scientific-calculator/assets/91613659/d521e98a-5fc0-4310-8a16-491888dce295)
+##Features : 
+A scientific calculator built with React.
+
+- Basic arithmetic operations (addition, subtraction, multiplication, division)
+- Advanced mathematical functions (trigonometric, logarithmic, factorial, etc.)
+- Memory functions (mc, m+, m-, mr)
+- Angle unit toggle (degrees, radians)
 
 # Getting Started with Create React App
 
