@@ -1,6 +1,9 @@
-
+## Scientific Calculatos (UI of MacOS)
 ![image](https://github.com/kupadhyay2394/scientific-calculator/assets/91613659/d521e98a-5fc0-4310-8a16-491888dce295)
-##Features : 
+
+## Live Website : https://krishna-scientific-calculator.netlify.app/
+
+## Features : 
 A scientific calculator built with React.
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
