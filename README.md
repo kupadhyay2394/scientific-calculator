@@ -1,3 +1,6 @@
+
+![image](https://github.com/kupadhyay2394/scientific-calculator/assets/91613659/d521e98a-5fc0-4310-8a16-491888dce295)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
